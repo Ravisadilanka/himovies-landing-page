@@ -1,0 +1,270 @@
+.container-land {
+    margin: 0 131px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    ;
+}
+
+.container-land .landing-logo{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-land .landing-logo img{
+    width: 307px;
+    height: 80px;
+}
+
+.container-land .landing-title h1 {
+    color: #FFE400;
+    font-size: 28px;
+    text-align: center;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+}
+
+form {
+    width: 100%;
+}
+
+.container-land .search-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-land .search-bar input{
+    width: 100%;
+    height: 50px;
+    font-weight: 400;
+    border-radius: 5px 0 0 5px;
+    padding-left: 20px;
+    padding-right: 100px;
+    font-size: 16px;
+    border: none;
+    color: #495057;
+    background-color: #fff;
+
+}
+
+.container-land .search-bar i{
+    align-items: center;
+    color: #111;
+    font-size: 20px;
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    cursor: pointer;
+    display: flex;
+    width: 80px;
+    background: #FFE400;
+    border-radius: 0 5px 5px 0;
+}
+
+.container-land .share-btn{
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.container-land .share-btn .share-icon-wrapper1{
+    background-color: rgb(29, 161, 242);
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 10.5px;
+    width: 81px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.container-land .share-btn .share-icon-wrapper2{
+    background-color: rgb(59, 89, 152);
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 10.5px;
+    width: 81px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.container-land .share-btn .share-icon-wrapper3{
+    background-color: rgb(77, 194, 71);
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 10.5px;
+    width: 81px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.container-land .share-btn .share-icon-wrapper4{
+    background-color: rgb(203, 32, 39);
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 10.5px;
+    width: 81px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.container-land .share-btn .share-icon-wrapper5{
+    background-color: rgb(0, 136, 204);
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 10.5px;
+    width: 81px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.container-land .share-btn .share-icon-wrapper6{
+    background-color: rgb(132, 132, 132);
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 10.5px;
+    width: 81px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.container-land .share-btn .share-icon-wrapper7{
+    background-color: rgb(255, 101, 80);
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 10.5px;
+    width: 81px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+
+svg{
+    padding-right: 5px;
+    width: 18px;
+    height: 25px;
+    margin: auto;
+    align-items: center;
+}
+
+.container-land .view-site{
+    margin: auto;
+    width: 232px;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 12px;
+    align-items: center;
+    background-color: #FFE400;
+    padding: 15px 30px;
+    color: #111;
+    font-weight: 600;
+    border-radius: 30px;
+}
+
+.container-land .view-site .arrow{
+    width: 20px;
+    height: 26px;
+    padding-left: 10px;
+}
+
+.container-land .text-left-align {
+    color: #ffffff;
+    margin-top: 50px;
+    font-size: 17px;
+    line-height: 1.5em;
+}
+
+.container-land .text-align-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    justify-content: left;
+    color: #ffffff;
+    margin-top: 50px;
+    font-size: 17px;
+    line-height: 1.5em;
+    margin-bottom: 50px;
+}
+
+.container-land .footer-list{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container-land .footer-list ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding: 0;
+    width: 500px;
+    align-items: center;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.container-land .footer-list ul li a{
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.container-land .footer-list .footer-text p{
+    line-height: 1.6em;
+    font-size: 12px;
+    opacity: .4;
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto 20px;
+}
+
+.container-land .footer-list .footer-text span{
+    line-height: 1.6em;
+    font-size: 12px;
+}
